@@ -1,7 +1,8 @@
 // ESP32 Keyboard Matrix Mapper
 // Connect your keyboard matrix rows and columns to these pins:
-// Adjust NUM_ROWS and NUM_COLS as needed
 
+
+// Adjust NUM_ROWS and NUM_COLS as needed (edit to match keyboard matrix)
 #define NUM_ROWS 8
 #define NUM_COLS 10
 
